@@ -1,0 +1,11 @@
+HitmanAbsolutionSDK 1.0.5 and DirectInputProxy: pavledev and contributors; based on work by OrfeasZ. GPL-3.0.
+https://github.com/pavledev/HitmanAbsolutionSDK
+
+MinHook: Tsuda Kageyu and contributors. Included license: Licenses/MinHook.txt
+https://github.com/TsudaKageyu/minhook
+
+SDK asset bundle includes Roboto and Material Icons fonts by Google and SDK metadata. Upstream notices are preserved in the corresponding SDK source bundle.
+
+Mukuro Ikusaba character: Danganronpa. GMod char16 model supplied from the user installed addon; original mesh/texture authorship is retained. This package does not claim ownership of the original character, game or model.
+
+Sources.zip contains the exact portable MukuroRuntime C sources and SDK 1.0.5 sources. No original Hitman executable or runtime resource archives are included.
